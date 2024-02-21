@@ -113,7 +113,7 @@ class SaleOrder(models.Model):
             }
 
         except Exception as e:
-            _logger.info("(Odoo) Exception : {}".format(e))
+            _logger.info("(Thrive) Exception : {}".format(e))
             raise ValidationError('Excepiton : {}'.format(e))
 
     # CREATE QUOTATION IN XERO

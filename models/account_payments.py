@@ -252,7 +252,7 @@ class Account_Payment(models.Model):
                                     if element.get('ValidationErrors'):
                                         for err in element.get('ValidationErrors'):
                                             raise ValidationError(
-                                                '(Payment) Xero Exception for Odoo Payment -  ' + element.get(
+                                                '(Payment) Xero Exception for Thrive Payment -  ' + element.get(
                                                     'Reference') + '  =>' + err.get(
                                                     'Message'))
                             elif response_data.get('Message'):

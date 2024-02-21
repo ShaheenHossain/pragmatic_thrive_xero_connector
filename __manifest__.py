@@ -6,12 +6,12 @@
     'author': 'Pragmatic TechSoft Pvt Ltd.',
     'website': "www.pragtech.co.in",
     'depends': ['account', 'sale_management', 'base', 'purchase'],
-    'summary': 'Xero Connector with REST API Xero Odoo Integration App xero accounting thrive xero connector thrive xero integration thrive xero accounting integration accounting app',
+    'summary': 'Xero Connector with REST API Xero Thrive Integration App xero accounting thrive xero connector thrive xero integration thrive xero accounting integration accounting app',
     'description': """
 Xero Connector with REST API
 ============================
 <keywords>
-Xero Odoo Integration App
+Xero Thrive Integration App
 xero
 xero thrive 
 xero accounting
